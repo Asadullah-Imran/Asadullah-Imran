@@ -35,3 +35,12 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Imran)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Imran&show_icons=true&count_private=true)
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asadullah-Imran)  
+
+![GitHub metrics](https://metrics.lecoq.io/Asadullah-Imran)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Asadullah-Imran)  
+
+![Profile views](https://gpvc.arturio.dev/Asadullah-Imran) 
