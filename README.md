@@ -3,7 +3,6 @@
 
 I am a student pursuing a degree in Computer Science and Engineering at United International University. My passion lies in the realms of Data Science and Full-stack web development. I am eager to collaborate on projects that offer valuable learning opportunities, as I am at the beginning of my exciting journey.
 
-![Banner]([https://ibb.co/37HYF5k](https://ibb.co/X5m0X88))
 
 ## About Me
 
