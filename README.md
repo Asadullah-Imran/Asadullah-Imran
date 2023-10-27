@@ -42,4 +42,3 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Asadullah-Imran)  
 
-![Profile views](https://gpvc.arturio.dev/Asadullah-Imran) 
