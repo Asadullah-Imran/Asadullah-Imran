@@ -13,7 +13,7 @@ I am a student pursuing a degree in Computer Science and Engineering at United I
 - 📫 You can reach me at [asadullahimran19@gmail.com](mailto:asadullahimran19@gmail.com).
 ## Skills
 - HTML
-- CSS
+- - CSS
 - Javascript
 - ReactJS
 - NodeJs
@@ -37,7 +37,6 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Imran&show_icons=true&count_private=true)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asadullah-Imran)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Asadullah-Imran)  
 
