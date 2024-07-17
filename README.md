@@ -1,8 +1,6 @@
-
 # Hi there, 👋 I'm Asadullah Imran!
 
 I am a student pursuing a degree in Computer Science and Engineering at United International University. My passion lies in the realms of Data Science and Full-stack web development. I am eager to collaborate on projects that offer valuable learning opportunities, as I am at the beginning of my exciting journey.
-
 
 ## About Me
 
@@ -11,18 +9,18 @@ I am a student pursuing a degree in Computer Science and Engineering at United I
 - 💡 I'm currently working on mastering Web development.
 - 💬 Ask me about my experiences in web development, programming languages, and learning strategies.
 - 📫 You can reach me at [asadullahimran19@gmail.com](mailto:asadullahimran19@gmail.com).
+
 ## Skills
-- HTML
-- - CSS
-- Javascript
-- ReactJS
-- NodeJs
-- JAVA
-- C++
-- C
-- PYTHON
-- Adobe Photoshop
-- PowerPoint
+
+| Web Development       | Programming Languages | Tools                |
+|-----------------------|-----------------------|----------------------|
+| HTML                  | Python                | Adobe Photoshop      |
+| CSS                   | C++                   | PowerPoint           |
+| JavaScript            | C                     |                      |
+| ReactJS               | Java                  |                      |
+| NodeJs                |                       |                      |
+| Bootstrap             |                       |                      |
+| Tailwind              |                       |                      |
 
 ## Let's Connect
 
@@ -36,9 +34,5 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Imran)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Imran&show_icons=true&count_private=true)
 
-
-
 ![GitHub metrics](https://metrics.lecoq.io/Asadullah-Imran)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Asadullah-Imran)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Asadullah-Imran)
