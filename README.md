@@ -16,11 +16,11 @@ I am a student pursuing a degree in Computer Science and Engineering at United I
 |-----------------------|-----------------------|----------------------|
 | HTML                  | Python                | Adobe Photoshop      |
 | CSS                   | C++                   | PowerPoint           |
-| JavaScript            | C                     |                      |
-| ReactJS               | Java                  |                      |
-| NodeJs                |                       |                      |
-| Bootstrap             |                       |                      |
+| ReactJS           | C                     |                      |
+|  NodeJs               | Java                  |                      |
+|  Bootstrap               | JavaScript                       |                      |
 | Tailwind              |                       |                      |
+
 
 ## Let's Connect
 
